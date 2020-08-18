@@ -1,4 +1,4 @@
-# Deeplearning.ai-Coursera
+# deeplearning.ai Coursera Specialization
 
  
 Certificates I got upon completing this 5-course long specialization:
